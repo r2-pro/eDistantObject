@@ -3010,7 +3010,7 @@
 				76140DA1262795EE007CA5AC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C52D85912220C44300E86E60 /* Build configuration list for PBXNativeTarget "DeviceLib" */ = {
 			isa = XCConfigurationList;
@@ -3022,7 +3022,7 @@
 				C52D85932220C44300E86E60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C55B85F32241AEAC00B568FA /* Build configuration list for PBXNativeTarget "DeviceUnitTests" */ = {
 			isa = XCConfigurationList;
@@ -3034,7 +3034,7 @@
 				C55B85F52241AEAC00B568FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845025020DD9CB900D7350F /* Build configuration list for PBXProject "eDistantObject" */ = {
 			isa = XCConfigurationList;
@@ -3046,7 +3046,7 @@
 				C845025D20DD9CB900D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845026B20DD9D2E00D7350F /* Build configuration list for PBXNativeTarget "ChannelLib" */ = {
 			isa = XCConfigurationList;
@@ -3058,7 +3058,7 @@
 				C845026D20DD9D2E00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845027420DD9D5D00D7350F /* Build configuration list for PBXNativeTarget "eDistantObject" */ = {
 			isa = XCConfigurationList;
@@ -3070,7 +3070,7 @@
 				C845027620DD9D5D00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845033C20DDA11D00D7350F /* Build configuration list for PBXNativeTarget "ChannelTests" */ = {
 			isa = XCConfigurationList;
@@ -3082,7 +3082,7 @@
 				C845033E20DDA11D00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845035820DDA1EA00D7350F /* Build configuration list for PBXNativeTarget "TestsHost" */ = {
 			isa = XCConfigurationList;
@@ -3094,7 +3094,7 @@
 				C845035A20DDA1EA00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C845037F20DDA40A00D7350F /* Build configuration list for PBXNativeTarget "ServiceUITests" */ = {
 			isa = XCConfigurationList;
@@ -3106,7 +3106,7 @@
 				C845038120DDA40A00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C84503AA20DDAEF500D7350F /* Build configuration list for PBXNativeTarget "ServiceTests" */ = {
 			isa = XCConfigurationList;
@@ -3118,7 +3118,7 @@
 				C84503AC20DDAEF500D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C84503BE20DDB03E00D7350F /* Build configuration list for PBXNativeTarget "ServicePerfTests" */ = {
 			isa = XCConfigurationList;
@@ -3130,7 +3130,7 @@
 				C84503C020DDB03E00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C84503CC20DDB07B00D7350F /* Build configuration list for PBXNativeTarget "TestsBundle" */ = {
 			isa = XCConfigurationList;
@@ -3142,7 +3142,7 @@
 				C84503CE20DDB07B00D7350F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C88B8A7821ADD3BE00DDE607 /* Build configuration list for PBXNativeTarget "MeasureLib" */ = {
 			isa = XCConfigurationList;
@@ -3154,7 +3154,7 @@
 				C88B8A7A21ADD3BE00DDE607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 		C88B8A8621ADD3FD00DDE607 /* Build configuration list for PBXNativeTarget "MeasureTests" */ = {
 			isa = XCConfigurationList;
@@ -3166,7 +3166,7 @@
 				C88B8A8821ADD3FD00DDE607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Stage;
 		};
 /* End XCConfigurationList section */
 	};
